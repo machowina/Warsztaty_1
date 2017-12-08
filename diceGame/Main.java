@@ -16,5 +16,13 @@ public class Main {
 		// TODO Auto-generated method stub
 
 	}
+	static String getDiceType () {
+		
+		
+	}
+	
+	static int[] diceType (String str) {
+		
+	}
 
 }
